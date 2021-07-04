@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.design{
+    color: crimson;
+}
+.half-width{
+    width: 500px;
+    padding-left: 10px;
+}
+.half-width image{
+    width: 50px;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 150px;
+}
+.link-button{
+   text-decoration: none ;
+   background-color: rgb(0, 247, 255);
+   background-image: -moz-linear-gradient(rgb(255, 255, 255));
+   font-weight: 700;
+   padding: 05px 20px;
+   border-radius: 20px;
+}
