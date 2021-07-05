@@ -11,7 +11,7 @@ h1{
 }
 .half-width{
     width: 600px;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .half-width image{
     width: 50px;
@@ -27,4 +27,34 @@ h1{
    font-weight: 700;
    padding: 05px 20px;
    border-radius: 20px;
+}
+.paint{
+    color: crimson;
+}.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.Euro-cup{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width image{
+    width: 600px;
+}
+.broken{
+    color: green;
+}
+.heart{
+    color: crimson;
+}
+.link-button1{
+    text-decoration: none;
+    background-color: blueviolet;
+    font-weight: 700;
+    border-radius: 20px;
+    background-image: -moz-linear-gradient(orange);
+    padding: 05px 20px;
 }
